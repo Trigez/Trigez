@@ -1,5 +1,5 @@
-### Hello! 👋
-- # My name is Heine.
+## Hello! 👋
+- 👨‍🎓 My name is Heine.
 - 📚 I’m currently studying Computer Science at UiT.
 - 🌱 I’m currently learning C and Python.
 - 📫 Email: hly023@uit.no
