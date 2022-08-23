@@ -2,7 +2,7 @@
 - # My name is Heine.
 - 📚 I’m currently studying Computer Science at UiT.
 - 🌱 I’m currently learning C and Python.
-- 📫 Contact me: hly023@uit.no
+- 📫 Email: hly023@uit.no
 
 
 <div id="header" align="center">
