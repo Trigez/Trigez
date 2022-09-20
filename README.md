@@ -8,6 +8,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif" width="320" height="270"/>
-</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trigez&" alt="trigez" /></p>
+</div>
+
