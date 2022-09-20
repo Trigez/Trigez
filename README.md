@@ -6,5 +6,5 @@
 
 
 <div id="header" align="center">
-  <img src="https://c.tenor.com/078DIpj7gfEAAAAd/laptop.gif" width="500" height="270"/>
+  <img src="https://media.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif" width="500" height="270"/>
 </div>
