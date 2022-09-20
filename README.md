@@ -1,7 +1,7 @@
 ## Hello! 👋
 - 👨‍🎓 My name is Heine.
 - 📚 I’m currently studying Computer Science at UiT.
-- 🌱 I’m currently learning C, Python and x86 Assembly. 
+- 🌱 I’m currently learning C, Python,x86 Assembly as well as Microsoft Azure. 
 - 📫 Email: hly023@uit.no
 
 
