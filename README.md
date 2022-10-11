@@ -2,7 +2,7 @@
 - 👨‍🎓 My name is Heine.
 - 📚 I’m currently studying Computer Science at UiT.
 - 🌱 I’m currently learning C, Python, x86 Assembly, MS Azure, Docker and Flask.
-- 📫 Email: hly023@uit.no
+- 📫 Contact me: hly023@uit.no
 
 
 <h3 align="center">Languages and Tools:</h3>
