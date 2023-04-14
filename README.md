@@ -16,10 +16,3 @@
  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/heineken99)
  
 <p align="center"><img src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif" width="270" height="270"/> </p>
-
-[<img src="https://novatorem-trigez.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/trigez_fazz)
-
-[![Spotify](https://trigez.vercel.app/api/spotify)](https://open.spotify.com/user/trigez_fazz)
-
-</div>
-
