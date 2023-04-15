@@ -13,14 +13,13 @@
 </p>
 
 ## 💸 i am broke lol
+<p align="center"><img src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif" width="150" height="150"/> </p>
 <p align="center">
   <a href="https://paypal.me/heineken99">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
   </a>
 </p>
  
-<p align="center"><img src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif" width="270" height="270"/> </p>
-
 ## 🎶🎵🎶🎵🎶🎵🎶🎵
 
 <p align="center">
