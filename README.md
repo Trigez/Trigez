@@ -1,7 +1,7 @@
 ## Hello! 👋 [![](https://visitcount.itsvg.in/api?id=Trigez&icon=0&color=0)](https://visitcount.itsvg.in)
 - 👨‍🎓 My name is Heine.
 - 📚 I’m currently studying Computer Science at UiT.
-- 🌱 I’m currently learning C, Python, x86 Assembly (AT&T syntax), MS Azure, Docker and Flask.
+- 🌱 I’m currently trying to get better at C, Python, x86 Assembly (AT&T syntax), MS Azure and Docker.
 - 📫 If you want to get in touch with me: hly023@uit.no
 
 ## 💻 Tech Stack:
