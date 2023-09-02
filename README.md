@@ -12,7 +12,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trigez&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
-## 💸 i am broke lol
+##
 <p align="center"><img src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif" width="150" height="150"/> </p>
 <p align="center">
   <a href="https://paypal.me/heineken99">
