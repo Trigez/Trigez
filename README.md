@@ -1,7 +1,7 @@
 ## Hello! 👋 [![](https://visitcount.itsvg.in/api?id=Trigez&icon=0&color=0)](https://visitcount.itsvg.in)
 - 👨‍🎓 My name is Heine.
-- 📚 I’m currently studying Computer Science at UiT. On my third and final year at the moment.
-- 🌱 I’m currently trying to get better at C, Python, nginx, podman and kubernetes.
+- 📚 Computer science degree from UiT.
+- 🌱 Currently learning Java.
 - 📫 If you want to get in touch with me: hly023@uit.no
 
 ## 💻 Tech Stack:
